@@ -1,3 +1,4 @@
+```shell
 [2022-03-07 14:59:45] michael | subnet-cli (main) % subnet-cli create subnet
 2022-03-07T15:03:55.919+0800	info	client/client.go:85	fetching X-Chain id
 2022-03-07T15:03:56.077+0800	info	client/client.go:91	fetched X-Chain id	{"id": "2JVSBoinj9C2J33VntvzYtVJNZdN2NKiwwKjcumHUWEb5DbBrm"}
@@ -47,3 +48,4 @@ created subnet "2BZePph7VQp5tjpkTnys1YpBFVaaVtEBkx23BkMh7mUksJmrJ" (took 1.67154
 *-------------------*---------------------------------------------------*
 | CREATED SUBNET ID | 2BZePph7VQp5tjpkTnys1YpBFVaaVtEBkx23BkMh7mUksJmrJ |
 *-------------------*---------------------------------------------------*
+```
